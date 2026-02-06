@@ -21,7 +21,7 @@ RegisterNumber:  212225040242
 */
 ```
 ~~~
-\import pandas as pd
+import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.linear_model import SGDClassifier
 from sklearn.model_selection import train_test_split
